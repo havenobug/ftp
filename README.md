@@ -1,1 +1,1 @@
-#FTP 介绍？
+mkdir ls cd
